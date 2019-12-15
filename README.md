@@ -10,3 +10,5 @@ reconnaissance dont le rôle est de mettre en correspondance l’information vis
 détectée avec des modèles de panneaux routiers appris à priori. Des tests effectués
 sur un ensemble d’images réelles du trafic routier montrent les performances du
 système actuellement développé.
+
+Fabien Louce Kerdely
