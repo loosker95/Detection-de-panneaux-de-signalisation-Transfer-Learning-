@@ -11,4 +11,4 @@ détectée avec des modèles de panneaux routiers appris à priori. Des tests ef
 sur un ensemble d’images réelles du trafic routier montrent les performances du
 système actuellement développé.
 
-Fabien Louce Kerdely
+### Fabien Louce Kerdely
