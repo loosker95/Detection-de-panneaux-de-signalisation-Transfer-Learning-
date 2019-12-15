@@ -1,7 +1,7 @@
 # Modele Deep Learning de detection de panneaux de signalisation 
 
 
-Le but de ce travail [1] est de concevoir, implémenter et tester une méthode de
+Le but de ce travail est de concevoir, implémenter et tester une méthode de
 détection et de reconnaissance de panneaux routiers qui se base sur la vision par
 ordinateur. L’approche adoptée dans ce travail est constituée de deux modules
 principaux : un module de détection qui se base sur l’attention visuelle pour repérer
