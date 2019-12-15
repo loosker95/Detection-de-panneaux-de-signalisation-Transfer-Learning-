@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>054_1_0109.png</filename>
+	<path>C:\tensorflow\models\research\object_detection\images\train\054_1_0109.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>84</width>
+		<height>79</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>10</ymin>
+			<xmax>75</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+</annotation>

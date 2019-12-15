@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>054_1_0024_1_j.png</filename>
+	<path>C:\tensorflow\models\research\object_detection\images\test\054_1_0024_1_j.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>63</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>2</ymin>
+			<xmax>61</xmax>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+</annotation>
